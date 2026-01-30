@@ -1,0 +1,1505 @@
+{
+    "ARM": [
+        {
+            "unmasked_renderer": "Mali-G52",
+            "unmasked_vendor": "ARM",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Mali-G72",
+            "unmasked_vendor": "ARM",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Mali-G76",
+            "unmasked_vendor": "ARM",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Mali-T880",
+            "unmasked_vendor": "ARM",
+            "system": "Android"
+        }
+    ],
+    "Qualcomm": [
+        {
+            "unmasked_renderer": "Adreno(TM) 308",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 405",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 505",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 506",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 512",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 616",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 618",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 620",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 640",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        },
+        {
+            "unmasked_renderer": "Adreno(TM) 650",
+            "unmasked_vendor": "Qualcomm",
+            "system": "Android"
+        }
+    ],
+    "Apple Inc.": [
+        {
+            "unmasked_renderer": "Apple GPU",
+            "unmasked_vendor": "Apple Inc.",
+            "system": "iOS"
+        }
+    ],
+    "Google Inc. (AMD)": [
+        {
+            "unmasked_renderer": "ANGLE (AMD, RENOIR(renoir LLVM 15.0.7), OpenGL 4.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Linux"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD 760G (0x00001636) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD 760G (Microsoft Corporation WDDM 1.1) (0x00001636) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon (TM) R9 200 Series (0x00006811) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon (TM) R9 370 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon (TM) R9 380 Series (0x00006939) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon (TM) R9 380 Series (0x00006939) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.21002.112)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon HD 6370D (0x00001636) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon HD 7500M/7600M Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon R7 350 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon R7 350 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.15029.27017)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon R7 430 (0x00006611) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon R7 Graphics (0x00009874) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon R7 Graphics (0x00009874) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.14022.9)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon RX 5700 XT (0x0000731F) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.21003.1028)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon RX 580 2048SP (0x00006FDF) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon RX 580 2048SP (0x00006FDF) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.14011.5005)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon RX 580 2048SP (0x00006FDF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.15003.5017)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon Series (0x00001636) Direct3D9Ex vs_3_0 ps_3_0, aticfx32.dll-23.20.15002.11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.14054.1001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.11028.10001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.11032.3001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.11032.6002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.11044.7)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14022.1002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14022.6001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14044.2001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x0000164E) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.15002.11002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R3 Graphics (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1028.1)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R4 Graphics (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.14048.2)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R5 240 (0x00006611) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.806.256)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R5 Graphics (0x0000130A) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.13001.16003)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R5 Graphics (0x0000130A) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.21002.112)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R7 360 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.15002.11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R7 360 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.15029.27017)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R7 Graphics (0x0000130F) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.15002.11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) R7 Graphics (0x0000130F) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX 560 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 10 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.14122.12001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 10 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.14132.2002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 10 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.11030.14002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 10 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.11030.22001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 11 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 11 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1020.1)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 11 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.11044.7)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) RX Vega 11 Graphics (0x000015DD) Direct3D9Ex vs_3_0 ps_3_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 3 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.14046.3)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 3 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.11008.3003)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.11016.1)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.11030.14002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.12020.3002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.12036.1)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1028.1)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1032.2)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.11030.11001)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, AMD Radeon(TM) Vega 8 Graphics (0x000015DD) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14501.18003)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ATI Radeon HD 4200 (0x00001636) Direct3D9Ex vs_3_0 ps_3_0, atiumd64.dll-8.14.10.678)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon (TM) RX 470 Graphics (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.13031.18002)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 5500 XT (0x00007340) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.21003.8013)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 560 Series (0x000067EF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 570 Series (0x000067DF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 570 Series (0x000067DF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.21003.8013)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 580 Series (0x000067DF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 580 Series (0x000067DF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14501.28009)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 580 Series (0x000067DF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14534.2)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX 580 Series (0x000067DF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14535.1000)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX RX550/550 Series (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX Vega (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14501.18003)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX(TM) RX580 (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX550/550 Series (0x000067FF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.1034.6)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon RX550/550 Series (0x000067FF) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14501.18003)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, Radeon(TM) RX 460 Graphics (0x00001636) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.14535.3005)",
+            "unmasked_vendor": "Google Inc. (AMD)",
+            "system": "Windows"
+        }
+    ],
+    "Google Inc. (Intel)": [
+        {
+            "unmasked_renderer": "ANGLE (Intel, Mesa Intel(R) Graphics (RPL-P), OpenGL 4.6)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Linux"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Mesa Intel(R) Graphics (RPL-S), OpenGL 4.6)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Linux"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Mesa Intel(R) Xe Graphics (TGL GT2), OpenGL 4.6)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Linux"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, (PE64) Intel(R) 4th Generation Haswell HD Graphics 4600 (0x00007DD5) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.10.3379)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics (0x000022B0) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.10.4653)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics (0x000022B0) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.10.5059)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics (0x000022B0) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics (0x000022B0) Direct3D9Ex vs_3_0 ps_3_0, igdumd64.dll-8.15.10.3268)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics (0x000022B0) Direct3D9Ex vs_3_0 ps_3_0, igdumd64.dll-9.17.10.4229)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 3000 (0x00000126) Direct3D11 vs_4_1 ps_4_1, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 3000 (0x00000126) Direct3D11 vs_4_1 ps_4_1, D3D11-21.21.13.7654)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 3000 (0x00000126) Direct3D9Ex vs_3_0 ps_3_0, igdumd64.dll-9.17.10.4459)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4000 (0x00000162) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.10.4303)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4000 (0x00000162) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.13.5582)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4400 (0x0000041E) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.10.4425)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4400 (0x0000041E) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.14.5057)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4600 (0x00000416) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.15.4248)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4600 (0x00000416) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.4703)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4600 (0x00000416) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.4963)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 4600 (0x00000416) Direct3D9Ex vs_3_0 ps_3_0, nvumdshimx.dll-10.18.13.5891)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 510 (0x00007DD5) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.7987)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 520 (0x00001921) Direct3D11 vs_5_0 ps_5_0, D3D11-22.20.16.4771)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 520 (0x00001921) Direct3D11 vs_5_0 ps_5_0, D3D11-24.20.100.6293)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 520 (0x00001921) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.7325)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 520 (0x00001921) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.8142)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 520 (0x00001921) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8854)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 520 (0x00001921) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9466)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 530 (0x0000191B) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8681)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 530 (0x0000191B) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9316)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 5500 (0x00001616) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.4642)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 5500 (0x00001616) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.5070)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 6000 (0x00007DD5) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 610 (0x00005906) Direct3D11 vs_5_0 ps_5_0, D3D11-21.20.16.4508)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 610 (0x00005906) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.7584)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 615 (0x0000591E) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.16.4849)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 620 (0x00005921) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.16.4958)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 620 (0x00005921) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.6913)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 620 (0x00005921) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8682)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 620 (0x00005921) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8729)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 630 (0x0000591B) Direct3D11 vs_5_0 ps_5_0, D3D11-21.20.16.4508)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 630 (0x0000591B) Direct3D11 vs_5_0 ps_5_0, D3D11-21.20.16.4534)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 630 (0x0000591B) Direct3D11 vs_5_0 ps_5_0, D3D11-22.20.16.4836)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 630 (0x0000591B) Direct3D11 vs_5_0 ps_5_0, D3D11-23.21.13.9124)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics 630 (0x0000591B) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6089)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics Family (0x00000A16) Direct3D11 vs_4_1 ps_4_1, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics Family (0x00000A16) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.14.4414)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics Family (0x00000A16) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.14.4432)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics Family (0x00000A16) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.4549)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics Family (0x00000A16) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.4624)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) HD Graphics Family (0x00000A16) Direct3D11 vs_5_0 ps_5_0, D3D11-9.18.10.3234)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(R) Plus Graphics (0x00008A5A) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(R) Plus Graphics (0x00008A5A) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8984)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(R) Plus Graphics 655 (0x00003EA5) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8682)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00004908) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8439)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00004908) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8783)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x00004908) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9415)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(TM) Pro Graphics 5200 (0x00007DD5) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) Iris(TM) Pro Graphics P6300 (0x00007DD5) Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.4463)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.6999)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8190)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8280)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8935)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9168)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics (0x00009BA4) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9219)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 600 (0x00003185) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.6813)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 605 (0x00003184) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8681)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 610 (0x00003EA1) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.100.6471)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 610 (0x00003EA1) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.6709)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 610 (0x00003EA1) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.7642)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 610 (0x00003EA1) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8853)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 610 (0x00003EA1) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8935)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 615 (0x0000591C) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8681)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.16.4958)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.8141)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9316)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-23.20.16.5018)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-24.20.100.6136)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-24.20.100.6344)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-24.20.100.6345)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.100.6446)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-25.20.100.6617)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.7584)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-26.20.100.8141)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8691)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, Intel(R) UHD Graphics 630 (0x00003E98) Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.9415)",
+            "unmasked_vendor": "Google Inc. (Intel)",
+            "system": "Windows"
+        }
+    ],
+    "Google Inc. (Apple)": [
+        {
+            "unmasked_renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Max, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Apple)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1 Pro, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Apple)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Apple)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Max, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Apple)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2 Pro, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Apple)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M2, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Apple)",
+            "system": "Mac OS X"
+        }
+    ],
+    "Google Inc. (ATI Technologies Inc.)": [
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 455 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 5300M OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 5500 XT OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 5500M OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 555 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 555X OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 560 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 560X OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 570 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro 575X OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon Pro Vega 20 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon R9 M290X OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon R9 M370X OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon R9 M390 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon RX 570 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon RX 580 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (AMD, ANGLE Metal Renderer: AMD Radeon RX 590 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (ATI Technologies Inc.)",
+            "system": "Mac OS X"
+        }
+    ],
+    "Google Inc. (Intel Inc.)": [
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel HD Graphics 3000 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel HD Graphics 4000 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel HD Graphics 5000 OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel Iris OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel Iris Pro OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) HD Graphics 630, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Graphics 540, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Graphics 6100, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Plus Graphics 640, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Plus Graphics 645, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Plus Graphics 650, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Plus Graphics 655, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Plus Graphics OpenGL Engine (1x6x8 (fused) LP, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) Iris(TM) Plus Graphics OpenGL Engine, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) UHD Graphics 617, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        },
+        {
+            "unmasked_renderer": "ANGLE (Intel, ANGLE Metal Renderer: Intel(R) UHD Graphics 630, Unspecified Version)",
+            "unmasked_vendor": "Google Inc. (Intel Inc.)",
+            "system": "Mac OS X"
+        }
+    ],
+    "Google Inc. (NVIDIA)": [
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce 205 (0x00002504) Direct3D11 vs_4_1 ps_4_1, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce 210 (0x00000A65) Direct3D11 vs_4_0 ps_4_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce 405 (0x00002504) Direct3D11 vs_4_1 ps_4_1, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce 8400GS (0x00002504) Direct3D11 vs_4_1 ps_4_1, D3D11-9.18.13.4174)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce 8600 GT (0x00002504) Direct3D11 vs_4_0 ps_4_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce 9600 GT (0x00002504) Direct3D11 vs_4_0 ps_4_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 1030 (0x00001D01) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 1030 (0x00001D01) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 1030 (0x00001D01) Direct3D9Ex vs_3_0 ps_3_0, nvd3dumx.dll-26.21.14.4219)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 230M (0x00002504) Direct3D11 vs_4_1 ps_4_1, D3D11-21.21.13.4201)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 430 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-23.21.13.9135)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 620 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 630 (0x00000F00) Direct3D11 vs_5_0 ps_5_0, D3D11-23.21.13.9135)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 630M (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 710 (0x0000128B) Direct3D11 vs_5_0 ps_5_0, D3D11-24.21.13.9907)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 720 (0x00001286) Direct3D11 vs_5_0 ps_5_0, D3D11-26.21.14.4141)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 730 (0x00001287) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 730 (0x00001287) Direct3D11 vs_5_0 ps_5_0, D3D11-23.21.13.8813)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 730 (0x00001287) Direct3D11 vs_5_0 ps_5_0, D3D11-23.21.13.8831)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 730 (0x00001287) Direct3D11 vs_5_0 ps_5_0, D3D11-26.21.14.4166)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 730 (0x00001287) Direct3D11 vs_5_0 ps_5_0, D3D11-9.18.13.4411)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 740 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 740 (0x00002504) Direct3D9Ex vs_3_0 ps_3_0, nvd3dumx.dll-27.21.14.6589)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GT 750M (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTS 450 (0x00000DC4) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 (0x00001C91) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5730)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 (0x00001C91) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6079)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 (0x00001C91) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6647)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Ti (0x00001C8C) Direct3D11 vs_5_0 ps_5_0, D3D11-26.21.14.4250)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Ti (0x00001C8C) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Ti (0x00001C8C) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6172)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Ti (0x00001C8C) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6259)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Ti (0x00001C8C) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6611)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 (0x00001C20) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6089)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 3GB (0x00001C02) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 3GB (0x00001C02) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB (0x00001B83) Direct3D11 vs_5_0 ps_5_0, D3D11-24.21.13.9731)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB (0x00001B83) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1060 6GB (0x00001B83) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6172)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1070 (0x00001BA1) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1080 (0x00001BE0) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F9D) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F9D) Direct3D11 vs_5_0 ps_5_0, D3D11-26.21.14.4166)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F9D) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5256)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 (0x00001F9D) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 SUPER (0x00002187) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 SUPER (0x00002187) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 Ti (0x00002192) Direct3D9Ex vs_3_0 ps_3_0, D3D9Ex)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1660 Ti (0x00002191) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 550 Ti (0x00001244) Direct3D11 vs_5_0 ps_5_0, D3D11-23.21.13.9135)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 650 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-26.21.14.3630)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 650 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6140)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 650 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6589)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 650 Ti (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 660 (0x000011C0) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 750 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.13.5330)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 750 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 750 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6627)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 750 Ti (0x00001380) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.13.6881)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 750 Ti (0x00001380) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 750 Ti (0x00001380) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6647)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 950M (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 970 (0x000013C2) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 980 (0x000013C0) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6089)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F51) Direct3D11 vs_5_0 ps_5_0, D3D11-26.21.14.4250)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F51) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5671)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F51) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6093)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F51) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6137)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2060 (0x00001F51) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6647)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2070 SUPER (0x00001E84) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5643)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2070 SUPER (0x00001E84) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6192)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2080 (0x00001E90) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 2080 (0x00001E90) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6079)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3070 Laptop GPU (0x0000249D) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6221)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3080 (0x0000220A) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3080 (0x0000220A) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6647)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA NVS 5100M (0x00002504) Direct3D11 vs_4_1 ps_4_1, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA Quadro 600 (0x00000DF8) Direct3D11 vs_5_0 ps_5_0, D3D11-10.18.13.5362)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA Quadro K620 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA Quadro M2200 (0x00002504) Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.6259)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        },
+        {
+            "unmasked_renderer": "ANGLE (NVIDIA, NVIDIA Quadro P620 (0x00001CB6) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+            "unmasked_vendor": "Google Inc. (NVIDIA)",
+            "system": "Windows"
+        }
+    ]
+}

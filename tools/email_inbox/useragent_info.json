@@ -1,0 +1,122 @@
+{
+  "143": [
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.40 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "143.0.7499.40",
+      "kernel_version": "143"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.41 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "143.0.7499.41",
+      "kernel_version": "143"
+    }
+  ],
+  "141": [
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.107 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.107",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.108 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.108",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.122 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.122",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.123 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.123",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.54 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.54",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.55 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.55",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.65 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.65",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.76 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.76",
+      "kernel_version": "141"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7390.77 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "141.0.7390.77",
+      "kernel_version": "141"
+    }
+  ],
+  "142": [
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.134 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.134",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.135 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.135",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.162 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.162",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.163",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.175 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.175",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.176 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.176",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.59 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.59",
+      "kernel_version": "142"
+    },
+    {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.60 Safari/537.36",
+      "platform": "Windows",
+      "ua_full_version": "142.0.7444.60",
+      "kernel_version": "142"
+    }
+  ]
+}

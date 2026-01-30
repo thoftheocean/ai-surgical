@@ -1,0 +1,22 @@
+[
+  {
+    "forward": "socks5://127.0.0.1:10809",
+    "share_url": "socks5://user_static_47746:qidmikun@129.146.106.222:13876",
+    "proxy_port": "10808"
+  },
+  {
+    "forward": "socks5://127.0.0.1:10809",
+    "share_url": "socks5://user_static_47974:jilclxjf@129.146.106.222:13876",
+    "proxy_port": "50681"
+  },
+  {
+    "forward": "socks5://127.0.0.1:10809",
+    "share_url": "socks5://user_static_6815:ndsldcrp@141.147.178.2:13876",
+    "proxy_port": "50681"
+  },
+  {
+    "forward": "socks5://127.0.0.1:10809",
+    "share_url": "socks5://179624026a7316f072cba678ebea6a96:2ee6e46fa774c1de2a9049f3a5354e4f@23.150.36.125:6256",
+    "proxy_port": "50681"
+  }
+]
